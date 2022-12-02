@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://muanto.github.io/csb-edlc5c/static/css/main.bed9c162.chunk.css",
+    "main.js": "https://muanto.github.io/csb-edlc5c/static/js/main.32750084.chunk.js",
+    "main.js.map": "https://muanto.github.io/csb-edlc5c/static/js/main.32750084.chunk.js.map",
+    "runtime-main.js": "https://muanto.github.io/csb-edlc5c/static/js/runtime-main.f81fd24a.js",
+    "runtime-main.js.map": "https://muanto.github.io/csb-edlc5c/static/js/runtime-main.f81fd24a.js.map",
+    "static/js/2.01954aa1.chunk.js": "https://muanto.github.io/csb-edlc5c/static/js/2.01954aa1.chunk.js",
+    "static/js/2.01954aa1.chunk.js.map": "https://muanto.github.io/csb-edlc5c/static/js/2.01954aa1.chunk.js.map",
+    "index.html": "https://muanto.github.io/csb-edlc5c/index.html",
+    "static/css/main.bed9c162.chunk.css.map": "https://muanto.github.io/csb-edlc5c/static/css/main.bed9c162.chunk.css.map",
+    "static/js/2.01954aa1.chunk.js.LICENSE.txt": "https://muanto.github.io/csb-edlc5c/static/js/2.01954aa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f81fd24a.js",
+    "static/js/2.01954aa1.chunk.js",
+    "static/css/main.bed9c162.chunk.css",
+    "static/js/main.32750084.chunk.js"
+  ]
+}
